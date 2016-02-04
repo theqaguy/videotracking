@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/development/opencv/opencv/build/java/opencv-310.jar">
+	<classpathentry kind="lib" path="lib/opencv-310.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/development/opencv/opencv/build/java/x86"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="sample_app/lib/x86"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
