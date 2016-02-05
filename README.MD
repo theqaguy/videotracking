@@ -6,7 +6,7 @@ and adapt the referenced libraries
 
 Run the launch config and use the sliders to narrow down 
 the image shown in the "threshold" window to a colored object you want to track
-Once you narrowed it down, activate tracking
-Activate morphops to stabilize the tracking
+
+Once you narrowed it down, activate tracking (activate morphops to stabilize the tracking)
 
 Tested on Windows only!
